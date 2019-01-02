@@ -17,13 +17,14 @@ const App = () => {
 							Welcome to the exiting world of react.You will learn
 							everything needed to build real-world complex apps
 						</p>
-						<button
-							type="button"
-							className="btn btn-secondary btn-lg"
+						<a
+							className="btn btn-primary btn-lg"
+							style={{ borderRadius: "15px" }}
+							href="https://github.com/chandrakumarreddy/react-bootcamp"
 						>
 							<i className="fa fa-code" aria-hidden="true" />{" "}
 							source code
-						</button>
+						</a>
 					</div>
 				</div>
 			</header>
