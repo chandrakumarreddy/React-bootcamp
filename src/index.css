@@ -1,0 +1,19 @@
+.App-component {
+	background: url("/images/bg-pattern.png"),
+		linear-gradient(to left, #7b4397, #dc2430);
+	height: 100vh;
+	font-family: "Roboto", sans-serif !important;
+}
+.App-component .navbar-brand {
+	color: orange !important;
+}
+.header-title {
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight: 200;
+	color: #fff;
+	margin-top: 40px;
+}
+.header-content {
+	color: #fff;
+}
